@@ -7,4 +7,4 @@ Survey Data Analysis
 2. National Health and Nutrition Examination Survey (NHANES), Social Support Module, 2007-2008
 
 Data Visualization
-1. Sentiment Analysis: Taylor Swift's Songs
+1. Text Mining: Taylor Swift's Songs
