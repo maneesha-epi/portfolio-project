@@ -1,4 +1,4 @@
-# portfolio-project
+# portfolio-projects
 
 Hello, my name is Maneesha Muriki. This is my portfolio projects repository.
 
