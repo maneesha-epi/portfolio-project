@@ -1,0 +1,20 @@
+Text Mining with Taylor Swift's Songs
+
+The raw data set was created on 5/25/2023 and it contains 4 variables (album name, album year, track title, and lyrics) and 187 rows of data. 
+Taylor swift’s list of songs from her complete albums (Taylor’s Version, when applicable) were retrieved on her Spotify profile. 
+EPs, movie soundtracks, singles, and other versions (acoustic, piano version, etc.) of regular songs were also excluded. 
+For the song, All Too Well, the 10-minute version was included in the final dataset. The lyrics for each track were extracted from azlyrics. 
+
+Tasks
+1.	Word frequency
+2.	Bi-gram analysis 
+3.	Sentiment analysis 
+
+Text Mining and Sentiment Analysis Resources
+1.	https://rpubs.com/RosieB/taylorswiftlyricanalysis
+2.	https://www.tidytextmining.com/index.html
+3.	https://www.rdocumentation.org/
+
+Topic Resources
+1.	https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02?si=iO2iXon9STaVCfj_uB1Lag
+2.	https://www.azlyrics.com/t/taylorswift.html
