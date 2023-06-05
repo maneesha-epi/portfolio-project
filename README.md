@@ -1,6 +1,6 @@
 # portfolio-project
 
-Hello, my name is Maneesha Muriki. This is my portfolio projects repository. Listed below are the projects I'm currently working on. 
+Hello, my name is Maneesha Muriki. This is my portfolio projects repository.
 
 Survey Data Analysis 
 1. Behavioral Risk Factor Surveillance (BRFSS), HPV Vaccination Module, 2021
